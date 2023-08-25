@@ -1,0 +1,186 @@
+2023-08-25 20:17:51 150 140094175983424 2023-08-25 14:47:51,521 [root][INFO]::Making POST call for c03ad374-0fae-409e-a62d-f2791bd90af1 on https://pilot-gateway-1.beckn.nsdl.co.in/search
+2023-08-25 20:17:52 154 140094175983424 2023-08-25 14:47:52,835 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for staging-ondc-seller.viranc.com
+2023-08-25 20:17:52 154 140094175983424 2023-08-25 14:47:52,837 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:52 154 140094175983424 2023-08-25 14:47:52,840 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:52 150 140094175983424 2023-08-25 14:47:52,843 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for dev-api.shopeg.in
+2023-08-25 20:17:52 150 140094175983424 2023-08-25 14:47:52,843 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:52 137 140094175983424 2023-08-25 14:47:52,844 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for api.staging.esamudaay.retail.bpp
+2023-08-25 20:17:52 137 140094175983424 2023-08-25 14:47:52,844 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:52 136 140094175983424 2023-08-25 14:47:52,844 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for seller-ondc.forumnxt.com
+2023-08-25 20:17:52 136 140094175983424 2023-08-25 14:47:52,845 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:52 150 140094175983424 2023-08-25 14:47:52,845 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:52 136 140094175983424 2023-08-25 14:47:52,847 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:52 137 140094175983424 2023-08-25 14:47:52,847 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:52 154 140094175983424 2023-08-25 14:47:52,853 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 2, 'filters': {'categories': [], 'fulfillment': [{'id': 'Delivery', 'name': None}], 'providers': [{'id': 'd04c6a6c-7601-11ed-b223-0242ac120003', 'name': 'ONDC Test Seller Store'}], 'minPrice': 79.0, 'maxPrice': 437.0}} on on_search
+2023-08-25 20:17:52 150 140094175983424 2023-08-25 14:47:52,855 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 3, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'nynGrPkGHzKUiR64S3Mw', 'name': "Vijai's ondc test shop"}], 'minPrice': 140.0, 'maxPrice': 140.0}} on on_search
+2023-08-25 20:17:52 137 140094175983424 2023-08-25 14:47:52,866 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 6, 'filters': {'categories': [], 'fulfillment': [{'id': '3', 'name': None}], 'providers': [{'id': '0635ecff-8fde-4185-8cd8-167efda42bbc', 'name': 'Ravada Stores'}], 'minPrice': 250.0, 'maxPrice': 400.0}} on on_search
+2023-08-25 20:17:52 136 140094175983424 2023-08-25 14:47:52,868 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 6, 'filters': {'categories': [], 'fulfillment': [{'id': '746338', 'name': None}], 'providers': [{'id': 'sify Store', 'name': 'SIFY Store'}], 'minPrice': 450.0, 'maxPrice': 450.0}} on on_search
+2023-08-25 20:17:52 150 140094175983424 2023-08-25 14:47:52,876 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondcstaging.sellina.io
+2023-08-25 20:17:52 136 140094175983424 2023-08-25 14:47:52,937 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:52 136 140094175983424 2023-08-25 14:47:52,940 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,000 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondc.niveashop.in
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,025 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,028 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 137 140094175983424 2023-08-25 14:47:53,044 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondc.uengage.in
+2023-08-25 20:17:53 137 140094175983424 2023-08-25 14:47:53,110 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 137 140094175983424 2023-08-25 14:47:53,113 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,154 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for api.staging.nearshop.in
+2023-08-25 20:17:53 150 140094175983424 2023-08-25 14:47:53,165 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondc-staging.eunimart.com/api/v1/ondc/bpp/eunimart_bpp
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,205 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,208 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,218 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for techondc.hexbit.io
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,218 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,220 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,226 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 10, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'IGO_Seller_0001', 'name': 'IGO_Seller_0001'}, {'id': 'IGO_Seller_0002', 'name': 'IGO_Seller_0002'}, {'id': 'IGO_Seller_0003', 'name': 'IGO_Seller_0003'}], 'minPrice': 170.0, 'maxPrice': 200.0}} on on_search
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,268 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for shopify.humbhionline.in
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,323 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,327 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 137 140094175983424 2023-08-25 14:47:53,413 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondc.ndh01.com
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,493 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for owner.waayu.app/ondc
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,493 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,494 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,501 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 13, 'filters': {'categories': [], 'fulfillment': [], 'providers': [{'id': '6', 'name': 'Mangalore Tadka'}], 'minPrice': 119.0, 'maxPrice': 162.0}} on on_search
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,552 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,555 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,590 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for test.manipaldigital.in
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,590 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,592 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:53 154 140094175983424 2023-08-25 14:47:53,610 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 17, 'filters': {'categories': [], 'fulfillment': [], 'providers': [{'id': '120', 'name': 'Murali Store'}], 'minPrice': 105.0, 'maxPrice': 1205.0}} on on_search
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,668 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,671 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,727 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for agn9clh0g6.execute-api.ap-south-1.amazonaws.com/stage/seller1
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,727 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,728 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:53 136 140094175983424 2023-08-25 14:47:53,734 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 18, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'P1', 'name': 'ABC store'}], 'minPrice': 9.0, 'maxPrice': 9.0}} on on_search
+2023-08-25 20:17:53 137 140094175983424 2023-08-25 14:47:53,781 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:53 137 140094175983424 2023-08-25 14:47:53,784 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,102 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondcrwapis.azurewebsites.net
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,102 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,107 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,114 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 27, 'filters': {'categories': [{'id': '41', 'name': 'B24 Masalas & Spices'}, {'id': '44', 'name': 'KHATTA MEETHA'}], 'fulfillment': [{'id': '1', 'name': None}, {'id': '3', 'name': None}], 'providers': [{'id': '1', 'name': 'Rpro B24 (Mannual)'}, {'id': '201', 'name': 'Sirvi Bandhu Mithaiwale '}], 'minPrice': 10.0, 'maxPrice': 325.0}} on on_search
+2023-08-25 20:17:54 150 140094175983424 2023-08-25 14:47:54,130 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondc.onboni.com
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,171 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,174 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:54 137 140094175983424 2023-08-25 14:47:54,673 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ref-seller-app-stage.ondc.org
+2023-08-25 20:17:54 136 140094175983424 2023-08-25 14:47:54,902 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondcqa.demolocations.com
+2023-08-25 20:17:54 136 140094175983424 2023-08-25 14:47:54,902 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:54 136 140094175983424 2023-08-25 14:47:54,906 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:54 136 140094175983424 2023-08-25 14:47:54,912 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 44, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': '18th_stores', 'name': '18TH Store'}], 'minPrice': 7.0, 'maxPrice': 499.0}} on on_search
+2023-08-25 20:17:54 150 140094175983424 2023-08-25 14:47:54,936 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for seller.ecomviser.com
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,975 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:54 154 140094175983424 2023-08-25 14:47:54,978 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:55 154 140094175983424 2023-08-25 14:47:55,133 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for ondc-stage.dvaramoney.com
+2023-08-25 20:17:55 150 140094175983424 2023-08-25 14:47:55,882 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for mjjskllqh0.execute-api.us-east-1.amazonaws.com
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,906 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for mjjskllqh0.execute-api.us-east-1.amazonaws.com
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,906 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,909 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,916 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 45, 'filters': {'categories': [], 'fulfillment': [], 'providers': [{'id': 'TGiant_Equinox_Provider_847', 'name': 'Equinox TGiant Store 847'}], 'minPrice': 51.5, 'maxPrice': 51.5}} on on_search
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,949 [root][INFO]::Received on_search call of c03ad374-0fae-409e-a62d-f2791bd90af1 for mjjskllqh0.execute-api.us-east-1.amazonaws.com
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,950 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,951 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:17:55 137 140094175983424 2023-08-25 14:47:55,962 [root][INFO]::Got 200 for {'messageId': 'c03ad374-0fae-409e-a62d-f2791bd90af1', 'count': 46, 'filters': {'categories': [], 'fulfillment': [], 'providers': [{'id': 'TGiant_Equinox_Provider_731', 'name': 'Equinox TGiant Store 731'}], 'minPrice': 25.5, 'maxPrice': 25.5}} on on_search
+2023-08-25 20:17:55 154 140094175983424 2023-08-25 14:47:55,965 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:55 154 140094175983424 2023-08-25 14:47:55,972 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:56 154 140094175983424 2023-08-25 14:47:56,063 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:56 154 140094175983424 2023-08-25 14:47:56,066 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:17:58 137 140094175983424 2023-08-25 14:47:58,305 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:17:58 137 140094175983424 2023-08-25 14:47:58,309 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:04 150 140094175983424 2023-08-25 14:55:04,977 [root][INFO]::Making POST call for b98369a1-4180-4086-8197-da45bee957f4 on https://pilot-gateway-1.beckn.nsdl.co.in/search
+2023-08-25 20:25:07 150 140094175983424 2023-08-25 14:55:07,011 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for api.staging.nearshop.in
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,022 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc.staging.seller.eiosys.com
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,022 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,025 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,034 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 2, 'filters': {'categories': [], 'fulfillment': [], 'providers': [{'id': 'eiosys1', 'name': 'Eiosys Store 1'}], 'minPrice': 40.0, 'maxPrice': 60.0}} on on_search
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,085 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for techondc.hexbit.io
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,085 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,089 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,097 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 6, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'IGO_Seller_0001', 'name': 'IGO_Seller_0001'}, {'id': 'IGO_Seller_0002', 'name': 'IGO_Seller_0002'}, {'id': 'IGO_Seller_0003', 'name': 'IGO_Seller_0003'}], 'minPrice': 170.0, 'maxPrice': 200.0}} on on_search
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,114 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,117 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:07 154 140094175983424 2023-08-25 14:55:07,118 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc.niveashop.in
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,220 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:07 137 140094175983424 2023-08-25 14:55:07,223 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,231 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondcstaging.sellina.io
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,397 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc.limeroad.com
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,397 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,398 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,404 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 8, 'filters': {'categories': [{'id': 'Fashion', 'name': "Women's Apparel"}], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'lr_1174', 'name': 'Shilpkala'}, {'id': 'lr_5018', 'name': 'B.G.N. APPARELS'}], 'minPrice': 699.0, 'maxPrice': 1980.0}} on on_search
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,460 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,463 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:07 150 140094175983424 2023-08-25 14:55:07,734 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for jiw-ko-seller-ondc-as-preprod.azurewebsites.net
+2023-08-25 20:25:07 150 140094175983424 2023-08-25 14:55:07,734 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:07 150 140094175983424 2023-08-25 14:55:07,736 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:07 150 140094175983424 2023-08-25 14:55:07,742 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 10, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': '7d06a3c5-8c86-4a93-ba7c-b1b6715a7489', 'name': 'Ajay New Store'}, {'id': '5c4b23fd-96ac-4c2d-9bb1-228462caaf51', 'name': 'Ankit Grocery'}], 'minPrice': 243.75, 'maxPrice': 405.0}} on on_search
+2023-08-25 20:25:07 154 140094175983424 2023-08-25 14:55:07,799 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:07 154 140094175983424 2023-08-25 14:55:07,802 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:07 136 140094175983424 2023-08-25 14:55:07,904 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc-stage.dvaramoney.com
+2023-08-25 20:25:08 150 140094175983424 2023-08-25 14:55:08,078 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for bpp-stg-accelerator.shopalyst.com/retail
+2023-08-25 20:25:08 150 140094175983424 2023-08-25 14:55:08,432 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for seller-ondc.forumnxt.com
+2023-08-25 20:25:08 137 140094175983424 2023-08-25 14:55:08,472 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc-staging.eunimart.com/api/v1/ondc/bpp/eunimart_bpp
+2023-08-25 20:25:08 136 140094175983424 2023-08-25 14:55:08,810 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for test.manipaldigital.in
+2023-08-25 20:25:08 136 140094175983424 2023-08-25 14:55:08,810 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:08 136 140094175983424 2023-08-25 14:55:08,811 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:08 136 140094175983424 2023-08-25 14:55:08,817 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 14, 'filters': {'categories': [], 'fulfillment': [], 'providers': [{'id': '120', 'name': 'Murali Store'}], 'minPrice': 105.0, 'maxPrice': 1205.0}} on on_search
+2023-08-25 20:25:08 154 140094175983424 2023-08-25 14:55:08,826 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for agn9clh0g6.execute-api.ap-south-1.amazonaws.com/stage/seller1
+2023-08-25 20:25:08 154 140094175983424 2023-08-25 14:55:08,826 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:08 154 140094175983424 2023-08-25 14:55:08,828 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:08 154 140094175983424 2023-08-25 14:55:08,837 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 15, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'P1', 'name': 'ABC store'}], 'minPrice': 9.0, 'maxPrice': 9.0}} on on_search
+2023-08-25 20:25:08 150 140094175983424 2023-08-25 14:55:08,876 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:08 150 140094175983424 2023-08-25 14:55:08,879 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:08 150 140094175983424 2023-08-25 14:55:08,953 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ref-seller-app-stage.ondc.org
+2023-08-25 20:25:08 154 140094175983424 2023-08-25 14:55:08,978 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:08 154 140094175983424 2023-08-25 14:55:08,982 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:09 136 140094175983424 2023-08-25 14:55:09,020 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for seller.ecomviser.com
+2023-08-25 20:25:09 154 140094175983424 2023-08-25 14:55:09,138 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc.ndh01.com
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,178 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for seller.dhihyperlocal.com
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,178 [root][INFO]::Inserting entries to collection on_search_items
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,179 [root][INFO]::Entries inserted to collection on_search_items successfully!
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,185 [root][INFO]::Got 200 for {'messageId': 'b98369a1-4180-4086-8197-da45bee957f4', 'count': 17, 'filters': {'categories': [], 'fulfillment': [{'id': '1', 'name': None}], 'providers': [{'id': 'P1076', 'name': 'Maas/06'}], 'minPrice': 170.0, 'maxPrice': 180.0}} on on_search
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,240 [root][INFO]::Getting entries from collection on_search_items
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,243 [root][INFO]::Got entries from collection on_search_items successfully
+2023-08-25 20:25:09 150 140094175983424 2023-08-25 14:55:09,471 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc.onboni.com
+2023-08-25 20:25:10 136 140094175983424 2023-08-25 14:55:10,081 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for mjjskllqh0.execute-api.us-east-1.amazonaws.com
+2023-08-25 20:25:10 137 140094175983424 2023-08-25 14:55:10,081 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for mjjskllqh0.execute-api.us-east-1.amazonaws.com
+2023-08-25 20:25:10 136 140094175983424 2023-08-25 14:55:10,113 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for mjjskllqh0.execute-api.us-east-1.amazonaws.com
+2023-08-25 20:25:10 154 140094175983424 2023-08-25 14:55:10,938 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondc-qa.gofrugalretail.com
+2023-08-25 20:25:11 154 140094175983424 2023-08-25 14:55:11,111 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for shopify.humbhionline.in
+2023-08-25 20:25:13 137 140094175983424 2023-08-25 14:55:13,001 [root][INFO]::Received on_search call of b98369a1-4180-4086-8197-da45bee957f4 for ondcqa.demolocations.com
+2023-08-25 20:25:23 137 140094175983424 2023-08-25 14:55:23,579 [root][INFO]::Making POST call for 480f6848-8dcc-47f0-8fd6-1e258a0fed6f on https://jiw-ko-seller-ondc-as-preprod.azurewebsites.net/api/v1/select
+2023-08-25 20:25:25 136 140094175983424 2023-08-25 14:55:25,343 [root][INFO]::Received on_select call of 480f6848-8dcc-47f0-8fd6-1e258a0fed6f for jiw-ko-seller-ondc-as-preprod.azurewebsites.net
+2023-08-25 20:25:25 136 140094175983424 2023-08-25 14:55:25,343 [root][INFO]::Inserting entry to collection on_select
+2023-08-25 20:25:25 136 140094175983424 2023-08-25 14:55:25,345 [root][INFO]::Entry inserted to collection on_select successfully!
+2023-08-25 20:25:25 136 140094175983424 2023-08-25 14:55:25,351 [root][INFO]::Got 200 for {'messageId': '480f6848-8dcc-47f0-8fd6-1e258a0fed6f', 'count': 1} on on_select
+2023-08-25 20:25:25 136 140094175983424 2023-08-25 14:55:25,419 [root][INFO]::Getting entries from collection on_select
+2023-08-25 20:25:25 136 140094175983424 2023-08-25 14:55:25,422 [root][INFO]::Got entries from collection on_select successfully
+2023-08-25 20:25:37 136 140094175983424 2023-08-25 14:55:37,904 [root][INFO]::Making POST call for 69c87ef5-737d-46e0-8a65-b0945795007e on https://jiw-ko-seller-ondc-as-preprod.azurewebsites.net/api/v1/init
+2023-08-25 20:25:38 154 140094175983424 2023-08-25 14:55:38,659 [root][INFO]::Received on_init call of 69c87ef5-737d-46e0-8a65-b0945795007e for jiw-ko-seller-ondc-as-preprod.azurewebsites.net
+2023-08-25 20:25:38 154 140094175983424 2023-08-25 14:55:38,659 [root][INFO]::Inserting entry to collection on_init
+2023-08-25 20:25:38 154 140094175983424 2023-08-25 14:55:38,661 [root][INFO]::Entry inserted to collection on_init successfully!
+2023-08-25 20:25:38 154 140094175983424 2023-08-25 14:55:38,667 [root][INFO]::Got 200 for {'messageId': '69c87ef5-737d-46e0-8a65-b0945795007e', 'count': 1} on on_init
+2023-08-25 20:25:38 150 140094175983424 2023-08-25 14:55:38,715 [root][INFO]::Getting entries from collection on_init
+2023-08-25 20:25:38 150 140094175983424 2023-08-25 14:55:38,719 [root][INFO]::Got entries from collection on_init successfully
+2023-08-25 20:25:41 150 140094175983424 2023-08-25 14:55:41,846 [root][INFO]::Making POST call for 9ee8d5e6-21cc-4a7e-bf7d-01dd8213403b on https://jiw-ko-seller-ondc-as-preprod.azurewebsites.net/api/v1/confirm
+2023-08-25 20:25:43 150 140094175983424 2023-08-25 14:55:43,070 [root][INFO]::Received on_confirm call of 9ee8d5e6-21cc-4a7e-bf7d-01dd8213403b for jiw-ko-seller-ondc-as-preprod.azurewebsites.net
+2023-08-25 20:25:43 150 140094175983424 2023-08-25 14:55:43,071 [root][INFO]::Inserting entry to collection on_confirm
+2023-08-25 20:25:43 150 140094175983424 2023-08-25 14:55:43,073 [root][INFO]::Entry inserted to collection on_confirm successfully!
+2023-08-25 20:25:43 150 140094175983424 2023-08-25 14:55:43,079 [root][INFO]::Got 200 for {'messageId': '9ee8d5e6-21cc-4a7e-bf7d-01dd8213403b', 'count': 1} on on_confirm
+2023-08-25 20:25:43 150 140094175983424 2023-08-25 14:55:43,139 [root][INFO]::Getting entries from collection on_confirm
+2023-08-25 20:25:43 150 140094175983424 2023-08-25 14:55:43,142 [root][INFO]::Got entries from collection on_confirm successfully
+2023-08-25 20:25:49 137 140094175983424 2023-08-25 14:55:49,007 [root][INFO]::Making POST call for 12ac96df-0a97-49c0-8151-3c33af8fe823 on https://jiw-ko-seller-ondc-as-preprod.azurewebsites.net/api/v1/status
+2023-08-25 20:25:49 150 140094175983424 2023-08-25 14:55:49,654 [root][INFO]::Received on_status call of 12ac96df-0a97-49c0-8151-3c33af8fe823 for jiw-ko-seller-ondc-as-preprod.azurewebsites.net
+2023-08-25 20:25:49 150 140094175983424 2023-08-25 14:55:49,654 [root][INFO]::Inserting entry to collection on_status
+2023-08-25 20:25:49 150 140094175983424 2023-08-25 14:55:49,656 [root][INFO]::Entry inserted to collection on_status successfully!
+2023-08-25 20:25:49 137 140094175983424 2023-08-25 14:55:49,712 [root][INFO]::Getting entries from collection on_status
+2023-08-25 20:25:49 136 140094175983424 2023-08-25 14:55:49,712 [root][INFO]::Getting entries from collection on_status
+2023-08-25 20:25:49 137 140094175983424 2023-08-25 14:55:49,715 [root][INFO]::Got entries from collection on_status successfully
+2023-08-25 20:25:49 136 140094175983424 2023-08-25 14:55:49,715 [root][INFO]::Got entries from collection on_status successfully
+2023-08-25 20:25:49 150 140094175983424 2023-08-25 14:55:49,792 [root][INFO]::Got 200 for {'messageId': '12ac96df-0a97-49c0-8151-3c33af8fe823', 'count': 1} on on_status
+2023-08-25 20:25:57 137 140094175983424 2023-08-25 14:55:57,668 [root][INFO]::Making POST call for 1c6671f6-15e2-45fc-b6e7-5baf3141071e on https://jiw-ko-seller-ondc-as-preprod.azurewebsites.net/api/v1/cancel
+2023-08-25 20:25:58 136 140094175983424 2023-08-25 14:55:58,254 [root][INFO]::Received on_cancel call of 1c6671f6-15e2-45fc-b6e7-5baf3141071e for jiw-ko-seller-ondc-as-preprod.azurewebsites.net
+2023-08-25 20:25:58 136 140094175983424 2023-08-25 14:55:58,254 [root][INFO]::Inserting entry to collection on_cancel
+2023-08-25 20:25:58 136 140094175983424 2023-08-25 14:55:58,258 [root][INFO]::Entry inserted to collection on_cancel successfully!
+2023-08-25 20:25:58 137 140094175983424 2023-08-25 14:55:58,334 [root][INFO]::Getting entries from collection on_cancel
+2023-08-25 20:25:58 137 140094175983424 2023-08-25 14:55:58,338 [root][INFO]::Got entries from collection on_cancel successfully
+2023-08-25 20:25:58 137 140094175983424 2023-08-25 14:55:58,352 [root][INFO]::Getting entries from collection on_cancel
+2023-08-25 20:25:58 137 140094175983424 2023-08-25 14:55:58,360 [root][INFO]::Got entries from collection on_cancel successfully
+2023-08-25 20:25:58 136 140094175983424 2023-08-25 14:55:58,423 [root][INFO]::Got 200 for {'messageId': '1c6671f6-15e2-45fc-b6e7-5baf3141071e', 'count': 1} on on_cancel
